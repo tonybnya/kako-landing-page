@@ -12,6 +12,7 @@ const Footer = () => {
           <li className="hover:scale-110">
             <a
               href="https://web.facebook.com/tonybnya"
+              target="_blank"
               className="no-underline"
             >
               <i className="fa-brands fa-facebook-f hover:text-red-600"></i>
@@ -20,13 +21,18 @@ const Footer = () => {
           <li className="hover:scale-110">
             <a
               href="https://www.instagram.com/tonybnya"
+              target="_blank"
               className="no-underline"
             >
               <i className="fa-brands fa-instagram hover:text-red-600"></i>
             </a>
           </li>
           <li className="hover:scale-110">
-            <a href="https://twitter.com/tonybnya" className="no-underline">
+            <a
+              target="_blank"
+              href="https://twitter.com/tonybnya"
+              className="no-underline"
+            >
               <i className="fa-brands fa-x-twitter hover:text-red-600"></i>
             </a>
           </li>

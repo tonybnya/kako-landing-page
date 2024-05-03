@@ -9,6 +9,7 @@ const Navbar = () => {
         <li className="text-red-600">
           <a
             href="https://kako-coming-soon-page.onrender.com/"
+            target="_blank"
             className="no-underline"
           >
             KaKo
@@ -17,6 +18,7 @@ const Navbar = () => {
         <li>
           <a
             href="https://kako-coming-soon-page.onrender.com/"
+            target="_blank"
             className="no-underline"
           >
             Sign Up
