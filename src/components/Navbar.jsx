@@ -7,12 +7,18 @@ const Navbar = () => {
       <img src={logo} alt="KaKo logo" className="w-[5%]" />
       <ul className="flex gap-2 font-righteous">
         <li className="text-red-600">
-          <a href="#" className="no-underline">
+          <a
+            href="https://kako-coming-soon-page.onrender.com/"
+            className="no-underline"
+          >
             KaKo
           </a>
         </li>
         <li>
-          <a href="#" className="no-underline">
+          <a
+            href="https://kako-coming-soon-page.onrender.com/"
+            className="no-underline"
+          >
             Sign Up
           </a>
         </li>

@@ -10,17 +10,23 @@ const Footer = () => {
         </p>
         <ul className="flex flew-row gap-2">
           <li className="hover:scale-110">
-            <a href="#" className="no-underline">
+            <a
+              href="https://web.facebook.com/tonybnya"
+              className="no-underline"
+            >
               <i className="fa-brands fa-facebook-f hover:text-red-600"></i>
             </a>
           </li>
           <li className="hover:scale-110">
-            <a href="#" className="no-underline">
+            <a
+              href="https://www.instagram.com/tonybnya"
+              className="no-underline"
+            >
               <i className="fa-brands fa-instagram hover:text-red-600"></i>
             </a>
           </li>
           <li className="hover:scale-110">
-            <a href="#" className="no-underline">
+            <a href="https://twitter.com/tonybnya" className="no-underline">
               <i className="fa-brands fa-x-twitter hover:text-red-600"></i>
             </a>
           </li>

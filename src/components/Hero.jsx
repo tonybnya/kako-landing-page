@@ -24,7 +24,7 @@ const Hero = () => {
         all time.
       </p>
       <a
-        href="#"
+        href="https://kako-coming-soon-page.onrender.com/"
         className="border-2 border-red-600 rounded-md text-center font-righteous xl:w-[20%] xl:py-2 xl:px-1 xl:mx-0 md:w-[25%] md:py-2 md:px-1 md:block md:mx-auto max-sm:py-2 max-sm:py-1 max-sm:w-[40%] max-sm:block max-sm:mx-auto hover:border-white hover:bg-red-600"
       >
         Shop Now
