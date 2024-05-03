@@ -19,9 +19,8 @@ const Hero = () => {
         <span className="text-red-600 font-opensansbold">KaKo</span> offers an
         unparalleled shopping experience for fans and collectors alike. Immerse
         yourself in the mystique of Gotham City as you browse through our
-        curated selection of apparel, accessories, and memorabilia, meticulously
-        crafted to honor the legacy of one of the most legendary superheroes of
-        all time.
+        curated selection of accessories meticulously crafted to honor the
+        legacy of one of the most legendary superheroes of all time.
       </p>
       <a
         href="https://kako-coming-soon-page.onrender.com/"
