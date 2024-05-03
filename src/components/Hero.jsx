@@ -8,7 +8,7 @@ const Hero = () => {
       </h1>
       <h3 className="text-lato xl:text-2xl xl:text-left md:text-xl md:text-center max-sm:text-sm max-sm:text-center font-righteous xl:mb-6 md:mb-8 max-sm:mb-4">
         Your one-stop destination for all{" "}
-        <span className="text-red-600">Batman</span> things.
+        <span className="text-red-600">Batman</span> articles.
       </h3>
       <p className="xl:w-2/3 text-justify font-opensans tracking-wide xl:mb-6 md:mb-8 max-sm:mb-4 md:w-3/4 xl:block xl:mx-auto md:mx-auto max-sm:text-sm">
         You are where the iconic meets the extraordinary in the realm of
