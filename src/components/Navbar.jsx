@@ -4,7 +4,11 @@ import logo from "/assets/logo/logo.png";
 const Navbar = () => {
   return (
     <div className="flex justify-between items-center">
-      <img src={logo} alt="KaKo logo" className="w-[5%]" />
+      <img
+        src={logo}
+        alt="KaKo logo"
+        className="xl:w-[8%] md:w-[10%] max-sm:w-[15%]"
+      />
       <ul className="flex gap-2 font-righteous">
         <li className="text-red-600">
           <a
